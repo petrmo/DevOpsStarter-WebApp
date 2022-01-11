@@ -13,12 +13,12 @@ updates:
 
   # Maintain dependencies for npm
   - package-ecosystem: "npm"
-    directory: "/"
+    directory: "/Application/aspnet-core-dotnet-core"
     schedule:
       interval: "daily"
 
   # Maintain dependencies for nuget
   - package-ecosystem: "nuget"
-    directory: "/"
+    directory: "/Application/aspnet-core-dotnet-core"
     schedule:
       interval: "daily"
